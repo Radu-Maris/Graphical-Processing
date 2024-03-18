@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Facultate\An 3\GP\ProiectGP\ProiectGP\ProiectGP\main.cpp(170,9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\An 3\GP\ProiectGP\ProiectGP\ProiectGP\main.cpp(171,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 1813 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProiectGP.vcxproj -> D:\Facultate\An 3\GP\ProiectGP\ProiectGP\x64\Release\ProiectGP.exe

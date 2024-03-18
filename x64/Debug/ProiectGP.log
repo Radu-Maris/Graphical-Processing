@@ -1,0 +1,5 @@
+﻿D:\Aplicatii\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (RaduTemplateForOpenGL21.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Facultate\An 3\GP\ProiectGP\ProiectGP\ProiectGP\main.cpp(159,9): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Facultate\An 3\GP\ProiectGP\ProiectGP\ProiectGP\main.cpp(160,11): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ProiectGP.vcxproj -> D:\Facultate\An 3\GP\ProiectGP\ProiectGP\x64\Debug\ProiectGP.exe
